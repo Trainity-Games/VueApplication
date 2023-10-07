@@ -1,0 +1,1 @@
+<?php if(!defined(SECURITY)){exit();} return '{"token":"551cf636fdb7d0539e48439b30e507231af2a6b2","TimeCreate":1695764899,"TimeLife":1695764909,"Data":{"login":"AlexeiESS","password":"Gjkbyf2008"}}'; ?>
